@@ -1,0 +1,155 @@
+@media (max-width: 1400px) {
+
+}
+
+@media (max-width: 1797px) {
+
+    .infoBlock {
+        font-size: 10px;
+    }
+
+    .blockTwo {
+        height: 1100px;
+    }
+
+    .blockFour {
+        grid-template-columns: 2fr;
+        height: 450px;
+
+    }
+
+    .container {
+        display: block;
+        margin-left: auto;
+        margin-right: auto
+    }
+
+    .firsElement, .secondElement, .thirdElement {
+        padding-left: 5%;
+    }
+
+    .blockFive {
+        padding: 50px 15% 60px 15%;
+        height: 700px;
+    }
+
+    .blockSeven {
+        height: 1300px;
+    }
+    .blockEight .fa-brands {
+        font-size: 80px;
+        padding-left: 30px;
+        padding-right:30px;
+    }
+    .blockNine .structure {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+        flex-wrap: wrap;
+        padding-top: 220px;
+        z-index: 2;
+
+    }
+    .blockNine{
+        height: 850px;
+
+    }
+    .blockNine .buttons {
+        margin-top: 820px;
+        margin-left: 43%;
+    }
+
+    .footer {
+        width: 400px;
+    }
+    .mainCategories {
+        display: block;
+    }
+    .mainCategories{
+        display: block;
+    }
+    .mainCategories > :nth-child(1) {
+        padding-bottom: 40px;
+    }
+    .mainCategories > :nth-child(2) {
+        padding-bottom: 40px;
+    }
+    .footerF{
+        padding-top: 1200px;
+    }
+    .footer .imgF {
+        height: 1180px;
+    }
+    .four {
+        display: grid;
+        grid-template-columns: repeat(3, 120px);
+        grid-template-rows: 60px 120px 100px;
+        grid-gap: 10px;
+    }
+    .navBar {
+        padding: 0 100px 0 160px;
+    }
+
+}
+
+@media (max-width: 1799px) {
+    .blockThree {
+        height: 800px;
+    }
+}
+
+
+@media (max-width: 1190px) {
+    .blockThree {
+        height: 800px;
+    }
+
+    .blockTwo {
+        height: 1600px;
+
+    }
+
+    .textOne {
+        font-size: 20px;
+    }
+
+    .pc {
+        display: none;
+    }
+
+    .phone {
+        visibility: visible;
+    }
+
+    .blockFive {
+        padding: 50px 15% 60px 15%;
+        height: 1000px;
+    }
+    .blockSeven {
+        height: 1900px;
+    }
+    .blockEight .fa-brands {
+        font-size: 70px;
+        padding-left: 20px;
+        padding-right:20px;
+    }
+    .blockNine .structure {
+        padding-right: 25%;
+    }
+    .infoLeft {
+        padding-left: 60px;
+    }
+    .infoRight {
+        padding-right: 70px;
+    }
+    .navBar {
+        padding: 0 60px 0 60px;
+    }
+
+
+}
+
+@media (max-width: 600px) {
+
+}
