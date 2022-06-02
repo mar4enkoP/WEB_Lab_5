@@ -43,6 +43,9 @@ body {
 .phone{
     visibility: hidden;
 }
+.phone .fa-solid{
+    font-size: 19px;
+}
 .logo {
     height: 60px;
     color: black;
@@ -171,7 +174,7 @@ body {
 
 .blockThree {
     background-color: #efefef;
-    padding: 10px 15% 60px 15%;
+    padding: 10px 10% 60px 10%;
     height: 450px;
 
 }
@@ -371,7 +374,7 @@ body {
 }
 
 .activate-2:hover .noVisible-2 {
-    transform: translateY(-474px);
+    transform: translateY(-472px);
 
 }
 
